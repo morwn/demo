@@ -1,3 +1,6 @@
+name: Build
+
+on: [push]
 jobs:
   chain_bench_scan_example:
     runs-on: ubuntu-latest
